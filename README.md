@@ -26,9 +26,9 @@
         <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
       </p>
       <p align="center">
-        <strong><a href="https://x.com/RulHolos">Twitter</a></strong> |
-        <strong><a href="https://bsky.app/profile/rulholos.paw.rest">Bluesky</a></strong> |
-        <strong><a href="https://www.instagram.com/rul.holos/">Instagram</a></strong>
+        <strong><a href="https://x.com/RulHolos"><img src="https://cdn.simpleicons.org/x/white" width="12px" height="12px"/> Twitter</a></strong> |
+        <strong><a href="https://bsky.app/profile/rulholos.paw.rest"><img src="https://cdn.simpleicons.org/bluesky" width="12px" height="12px"/> Bluesky</a></strong> |
+        <strong><a href="https://www.instagram.com/rul.holos/"><img src="https://cdn.simpleicons.org/instagram" width="12px" height="12px"/> Instagram</a></strong>
       </p>
       <p align="center">
         <a href="https://github.com/RulHolos">
