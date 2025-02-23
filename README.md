@@ -32,14 +32,21 @@
       </p>
       <p align="center">
         <a href="https://github.com/RulHolos">
-          <img src="https://github-readme-stats.vercel.app/api?username=RulHolos&hide_border=true&show_icons=true" alt="RulHolos's github stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=RulHolos&hide_border=true&show_icons=true&bg_color=fffefe,55aaee,ff33aa&title_color=ff33aa&ring_color=55aaee&hide_title=true&include_all_commits=true" alt="RulHolos's github stats">
         </a>
       </p>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RulHolos&hide_title=true&layout=compact&card_width=490&bg_color=fffefe,ff33aa,55aaee&hide_border=true"/>
+        </a>
+      </p>
+      <!--
       <p align="center">
         <a href="https://git.io/streak-stats">
           <img src="https://streak-stats.demolab.com?user=RulHolos&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
         </a>
       </p>
+      --->
     </td>
 
 <!-- Right side image -->
