@@ -2,7 +2,7 @@
   <tr>
 <!-- Left side image -->
     <td width="20%" align="left">
-      <img src="cloud.jpg" alt="Cloud" style="height: 100vh; width: auto; object-fit: cover;">
+      <img src="cloud.jpg" alt="Cloud" style="height: 80vh; width: auto; object-fit: cover;">
     </td>
 
 <!-- Main content -->
@@ -44,7 +44,7 @@
 
 <!-- Right side image -->
 <td width="20%" align="right">
-      <img src="cloud.jpg" alt="Cloud" style="height: 100vh; width: 100%; object-fit: cover;">
+      <img src="cloud.jpg" alt="Cloud" style="height: 80vh; width: 100%; object-fit: cover;">
     </td>
   </tr>
 </table>
